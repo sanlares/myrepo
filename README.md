@@ -9,3 +9,4 @@ install.packages("usethis")
 library(usethis)
 use_git_config(user.name = "Jane Doe", user.email = "jane@example.org")
 ```
+A line I wrote on my local computer  
